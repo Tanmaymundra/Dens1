@@ -16,9 +16,12 @@ Cryptography involves three basic mechanisms
 A single secret key is used for both encryption and decryption. In addition, the encryption and decryption algorithms are inverses of each other. The original message known as plain text is encrypted using a secret key to obtain the unintelligible message called cipher text. This cipher text is transmitted through the channel to the intended receiver. At the receiver, the cipher text is decrypted using the same secret key to obtain the original plain text. 
 Traditional Symmetric Ciphers are the foundation to modern ciphers. They are classified into two broad categories
  * Substitution Cipher
-  #### A substitution cipher replaces one symbol with another 
+    
+    A substitution cipher replaces one symbol with another 
+ 
  * Transposition Cipher.
-  #### A transposition cipher does not substitute one symbol for another, instead it changes(transposes) the location of the symbols.  
+ 
+    A transposition cipher does not substitute one symbol for another, instead     it changes(transposes) the location of the symbols.  
 
 
 ## Examples of Dens.
