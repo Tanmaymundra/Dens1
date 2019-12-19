@@ -24,13 +24,22 @@ Traditional Symmetric Ciphers are the foundation to modern ciphers. They are cla
 ## Examples of Dens.
 
 1. To implement Substitution/ Caesar Cipher
-    
+   
    Algorithm
    * Enter the plain text.
    * Enter the key 
    * Enter modulus. 
    * Obtain cipher text as follows.
    * Obtain deciphered text as follows. 
+   
+2. Transposition Cipher and Reverse Cipher
+    
+    Algoritm
+     * Enter the plain text
+     *	Enter the positions by which the text has to be transposed
+     *	Apply the circular shift logic to obtain the Transposition Cipher.
+     *	Apply reverse logic to obtain the plain text back. 
+
 
    [Collab Link](https://colab.research.google.com/drive/1VQ8B-Z1AaSX3T1UcIbCfurLwikRKC54j)
    
